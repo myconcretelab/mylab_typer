@@ -1,0 +1,9 @@
+
+This theme include these javascript librairies :
+
+Masonry : released under the MIT License.
+jquery.onscreen : Released under the MIT License.
+breakpoints.js : Released without Licences
+jquery-rcrumbs : Released without Licences
+nprogress : Like MIT - https://github.com/rstacruz/nprogress/blob/master/License.md
+scrollmonitor : : Released under the MIT License.

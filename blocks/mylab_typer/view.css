@@ -1,0 +1,12 @@
+.typer-first-sentence {
+    display: none;
+}
+
+@media (max-width: 991px) { 
+    .mylab_typer {
+        display: none;
+    }
+    .typer-first-sentence {
+        display: inline;
+    }
+}
